@@ -1,6 +1,11 @@
 # EmbeddedChromiumFpCef3Lazarus
 Embedded Chromium browser fpCef3 in Lazarus IDE
 
+not all files available in this git
+for example big files like this only on my google drive 
+cef_sandbox.lib
+https://drive.google.com/open?id=1I6ckdkWcXBmgmnCjc--YVSZtY0-gOI2k
+
 It compatible with windows x64 systems.
 If you want to make apps for another systems, then find libs from this here(download minimal versions):
 http://opensource.spotify.com/cefbuilds/index.html
