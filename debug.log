@@ -1,0 +1,14 @@
+[1111/113812.831:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114233.319:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114248.351:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114257.913:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114435.352:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114621.009:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114751.276:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/114818.874:ERROR:render_process_host_impl.cc(2113)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[1111/114827.126:WARNING:htmlmediaelement.cpp(1995)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[1111/115037.652:ERROR:gl_surface_egl.cc(693)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1111/115043.463:WARNING:mediasession.cc(355)] Duplicate id found. Reassigning from 103 to 127
+[1111/115043.464:WARNING:mediasession.cc(355)] Duplicate id found. Reassigning from 104 to 125
+[1111/115055.781:ERROR:render_process_host_impl.cc(2113)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[1111/115122.023:WARNING:htmlmediaelement.cpp(1995)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
