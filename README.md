@@ -7,3 +7,9 @@ http://opensource.spotify.com/cefbuilds/index.html
 
 then copy content of folders Resources and Release into folder with your project where will be .exe(executable program file) file
 
+need to install this component into your lazarus ide:
+https://github.com/dliw/fpCEF3
+
+and some description:
+http://wiki.freepascal.org/fpCEF3
+
